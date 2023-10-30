@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoiCorporation!
-- 👀 I'm really into Arduino projects.
+- 👀 I'm really into Arduino projects and low-level programming. When the existing libraries are not enough for me... I create my own libraries!
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ If you share a passion for hardware, sensors, libraries and you like to do cool projects, don't be afraid to reach me out! We could drink a -virtual- beer or two! 
 - 📫 How to reach me ...
 
 <!---
