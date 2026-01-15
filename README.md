@@ -28,11 +28,11 @@
 ## My GitHub Data :octocat:
 <p align="center">
   <a href="https://github.com/RoiCorporation">
-    <img  src="https://readme-stats-dun-sigma.vercel.app/api?username=RoiCorporation&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast" />
+    <img width="400em" src="https://readme-stats-dun-sigma.vercel.app/api?username=RoiCorporation&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast" />
   </a>
   &nbsp&nbsp
   <a href="https://github.com/RoiCorporation">
-    <img height="195em" src="https://readme-stats-dun-sigma.vercel.app/api/top-langs/?username=RoiCorporation&custom_title=My%20Programming%20Languages&layout=compact&theme=highcontrast" />
+    <img height="168em" src="https://readme-stats-dun-sigma.vercel.app/api/top-langs/?username=RoiCorporation&custom_title=My%20Programming%20Languages&layout=compact&theme=highcontrast" />
   </a>
 </p>
 <br><br>
@@ -40,16 +40,16 @@
 
 ## 🖥️ Top Projects
 <a href="https://github.com/RoiCorporation/boolean-learner">
-  <img width="300em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast&cache_seconds=180&v=3" />
-</a>
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast&cache_seconds=180&v=3" />
+</a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/vhdl-practice">
-  <img width="300em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast&cache_seconds=180&v=3" />
-</a>
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast&cache_seconds=180&v=3" />
+</a><br><br>
 
 <a href="https://github.com/RoiCorporation/german-learner">
-  <img width="300em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast&cache_seconds=180&v=3" />
-</a>
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast&cache_seconds=180&v=3" />
+</a>&nbsp&nbsp
 <br><br>
 
 
