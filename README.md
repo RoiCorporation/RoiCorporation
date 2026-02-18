@@ -40,15 +40,15 @@
 
 ## 🖥️ Top Projects
 <a href="https://github.com/RoiCorporation/boolean-learner">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast&cache_seconds=180&v=3" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/vhdl-practice">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast&cache_seconds=180&v=3" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast" />
 </a><br><br>
 
 <a href="https://github.com/RoiCorporation/german-learner">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast&cache_seconds=180&v=3" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast" />
 </a>&nbsp&nbsp
 <br><br>
 
