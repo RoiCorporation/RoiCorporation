@@ -10,6 +10,11 @@
 
 
 ## 🛠 Tech Stack
+<div class="row">
+<div class="col-md-4">asdf</div>
+<div class="col-md-4">asdf</div>
+<div class="col-md-4">asdf</div>
+</div>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
