@@ -10,44 +10,15 @@
 
 
 ## 🛠 Tech Stack
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Column 1</h3>
-      <ul>
-        <li>Alpha</li>
-        <li>Beta</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Column 2</h3>
-      <ul>
-        <li>Gamma</li>
-        <li>Delta</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-| **Low-level/Hardware**                                                                                                                                                                                                                    | **Backend** | **Frontend** |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)  |             |              |
-|                                                                                                                                                                                                                                           |             |              |
-|                                                                                                                                                                                                                                           |             |              |
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=scrapy)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Risc-V](https://img.shields.io/badge/-RiscV-05122A?style=flat&logo=RiscV&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+| **Low-level/Hardware**                                                                       | **Backend**                                                                              | **Frontend**                                                                                            | **Miscellanea**                                                                     |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)              | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)            | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)                                | ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) |
+| ![Risc-V](https://img.shields.io/badge/-RiscV-05122A?style=flat&logo=RiscV&logoColor=A8B9CC) | ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)               | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)               | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)                |
+| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)    | ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)            | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)                  | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)       |
+| &nbsp;                                                                                       | ![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=scrapy)            | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) |
+| &nbsp;                                                                                       | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) |
+
 <br><br>
 
 
