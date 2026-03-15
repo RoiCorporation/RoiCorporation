@@ -10,10 +10,25 @@
 
 
 ## 🛠 Tech Stack
-<div class="row">
-<div class="col-md-4">asdf</div>
-<div class="col-md-4">asdf</div>
-<div class="col-md-4">asdf</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    **Column 1**
+    Content for the first column goes here.
+  </div>
+  <div>
+    **Column 2**
+    Content for the second column goes here.
+  </div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    **Left Column**
+    Content here
+  </div>
+  <div style="flex: 1;">
+    **Right Column**
+    Content here
+  </div>
 </div>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
