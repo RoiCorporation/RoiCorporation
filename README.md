@@ -10,26 +10,29 @@
 
 
 ## 🛠 Tech Stack
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <div>
-    **Column 1**
-    Content for the first column goes here.
-  </div>
-  <div>
-    **Column 2**
-    Content for the second column goes here.
-  </div>
-</div>
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    **Left Column**
-    Content here
-  </div>
-  <div style="flex: 1;">
-    **Right Column**
-    Content here
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Column 1</h3>
+      <ul>
+        <li>Alpha</li>
+        <li>Beta</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Column 2</h3>
+      <ul>
+        <li>Gamma</li>
+        <li>Delta</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+| **Low-level/Hardware**                                                                                                                                                                                                                    | **Backend** | **Frontend** |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)  |             |              |
+|                                                                                                                                                                                                                                           |             |              |
+|                                                                                                                                                                                                                                           |             |              |
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
