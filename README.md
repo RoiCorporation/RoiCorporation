@@ -5,7 +5,7 @@
 🎓 &nbsp;I'm currently studying Computer Science Engineering at Universidad Complutense de Madrid.\
 📚 &nbsp;In my free time I love to spend time reading and I'm also into running.\
 💬 &nbsp;Feel free to reach out to me if you have any interesting project related to hardware, electronics, VLSI or web development.\
-✉️ &nbsp;You can contact me via email at roilop01@ucm.es.
+✉️ &nbsp;You can contact me via email at r.lopezbarata@gmail.com
 <br><br>
 
 
