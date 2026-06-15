@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 💡 &nbsp;I'm passionate about Arduino projects, electronics in general, VHDL, assembly code and -surprise- web development.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering at Universidad Complutense de Madrid.\
+🎓 &nbsp;I'm a Computer Science Engineer graduate from the Universidad Complutense de Madrid.\
 📚 &nbsp;In my free time I love to spend time reading and I'm also into running.\
 💬 &nbsp;Feel free to reach out to me if you have any interesting project related to hardware, electronics, VLSI or web development.\
 ✉️ &nbsp;You can contact me via email at r.lopezbarata@gmail.com
@@ -51,8 +51,9 @@
 
 ## 🤝🏻 Connect with Me
 <p align="center">
+  <a href="https://www.roilb.com"><img src="https://img.shields.io/badge/🔗%20roilb.com-000000?style=flat" /></a>
   <a href="https://www.linkedin.com/in/roi-lopez-barata/"><img src="https://img.shields.io/badge/-Roi%20López%20Barata-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:r.lopezbarata@gmail.com"><img src="https://img.shields.io/badge/r.lopezbarata%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/RoiCorporation_"><img src="https://img.shields.io/badge/-@RoiCorporation-E4405F?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/RoiCorporation_"><img src="https://img.shields.io/badge/%40RoiCorporation__-E4405F?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/roilob"><img src="https://img.shields.io/badge/-@roilob-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
