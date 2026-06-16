@@ -52,7 +52,7 @@
 ## 🤝🏻 Connect with Me
 <p align="center">
   <a href="https://www.roilb.com"><img src="https://img.shields.io/badge/🔗%20roilb.com-000000?style=flat&color=ff6600"/></a>
-  <a href="https://www.linkedin.com/in/roi-lopez-barata/"><img src="https://img.shields.io/badge/-Roi%20López%20Barata-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/roi-lopez-barata/"><img src="https://img.shields.io/badge/-roi--lopez--barata-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:r.lopezbarata@gmail.com"><img src="https://img.shields.io/badge/r.lopezbarata%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/RoiCorporation_"><img src="https://img.shields.io/badge/%40RoiCorporation__-E4405F?style=flat&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/roilob"><img src="https://img.shields.io/badge/-@roilob-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
