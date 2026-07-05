@@ -35,13 +35,29 @@
 
 
 ## 🖥️ Top Projects
-<a href="https://github.com/RoiCorporation/boolean-learner">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast&v1" />
+<a href="https://github.com/RoiCorporation/risc-v-practice">
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=risc-v-practice&theme=highcontrast&v1" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/vhdl-practice">
   <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast&v1" />
-</a><br><br>
+</a>&nbsp&nbsp
+
+<a href="https://github.com/RoiCorporation/tfg-firmware">
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-firmware&theme=highcontrast&v1" />
+</a>&nbsp&nbsp
+
+<a href="https://github.com/RoiCorporation/tfg-app">
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-app&theme=highcontrast&v1" />
+</a>&nbsp&nbsp
+
+<a href="https://github.com/RoiCorporation/tfg-api">
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-api&theme=highcontrast&v1" />
+</a>&nbsp&nbsp
+
+<a href="https://github.com/RoiCorporation/boolean-learner">
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast&v1" />
+</a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/german-learner">
   <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast&v1" />
