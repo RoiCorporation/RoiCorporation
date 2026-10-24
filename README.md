@@ -25,11 +25,11 @@
 ## My GitHub Data :octocat:
 <p align="center">
   <a href="https://github.com/RoiCorporation">
-    <img width="400em" src="https://readme-stats-dun-sigma.vercel.app/api?username=RoiCorporation&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast&hide=issues&show=prs_merged,prs_merged_percentage" />
+    <img width="400em" src="https://readme-stats-dun-sigma.vercel.app/api?username=RoiCorporation&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast&hide=issues&show=prs_merged,prs_merged_percentage&v1" />
   </a>
   &nbsp&nbsp
   <a href="https://github.com/RoiCorporation">
-    <img height="168em" src="https://readme-stats-dun-sigma.vercel.app/api/top-langs/?username=RoiCorporation&custom_title=My%20Programming%20Languages&layout=compact&theme=highcontrast&langs_count=8" />
+    <img height="168em" src="https://readme-stats-dun-sigma.vercel.app/api/top-langs/?username=RoiCorporation&custom_title=My%20Programming%20Languages&layout=compact&theme=highcontrast&langs_count=8&v1" />
   </a>
 </p>
 <br><br>
@@ -37,31 +37,31 @@
 
 ## 🖥️ Top Projects
 <a href="https://github.com/RoiCorporation/risc-v-practice">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=risc-v-practice&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=risc-v-practice&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/vhdl-practice">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=vhdl-practice&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/tfg-firmware">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-firmware&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-firmware&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/tfg-app">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-app&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-app&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/tfg-api">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-api&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=tfg-api&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/boolean-learner">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=boolean-learner&theme=highcontrast" />
 </a>&nbsp&nbsp
 
 <a href="https://github.com/RoiCorporation/german-learner">
-  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast&v1" />
+  <img width="400em" align="center" src="https://readme-stats-dun-sigma.vercel.app/api/pin/?username=RoiCorporation&repo=german-learner&theme=highcontrast" />
 </a>&nbsp&nbsp
 <br><br>
 
