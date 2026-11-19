@@ -24,9 +24,9 @@
 
 ## My GitHub Data :octocat:
 <p align="center">
-  <img height="150em" src="https://readme-stats-dun-sigma.vercel.app/api?username=RoiCorporation&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast&hide=issues&show=prs_merged,prs_merged_percentage&v1" />
-  <img height="150em" src="https://readme-stats-dun-sigma.vercel.app/api/top-langs/?username=RoiCorporation&custom_title=My%20Programming%20Languages&layout=compact&theme=highcontrast&langs_count=8&v1" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=RoiCorporation&theme=highcontrast" height="120"/>
+  <img height="130em" src="https://readme-stats-dun-sigma.vercel.app/api?username=RoiCorporation&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast&hide=issues&show=prs_merged,prs_merged_percentage&v1" />
+  <img height="130em" src="https://readme-stats-dun-sigma.vercel.app/api/top-langs/?username=RoiCorporation&custom_title=My%20Programming%20Languages&layout=compact&theme=highcontrast&langs_count=8&v1" />
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=RoiCorporation&theme=highcontrast" height="120"/>
 </p>
 <br><br>
 
